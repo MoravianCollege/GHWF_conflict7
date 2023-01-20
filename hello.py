@@ -1,3 +1,3 @@
-for i in 'Hello, World!':
+for i in 'Hi, World!':
 	print(i)
 
